@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lab1_crypto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab1_crypto_jar</output-path>
+    <root id="archive" name="lab1_crypto.jar">
+      <element id="module-output" name="lab1_crypto" />
+    </root>
+  </artifact>
+</component>
